@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: /INIGMap/
+
+Sitemap: https://saidabdul80.github.io/INIGMap/demo.html
