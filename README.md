@@ -61,7 +61,8 @@ NiMap(
 });
 ```
 
-> The state in the configuration is the map's state number. Every state has a number. A state is required in order to use a configuration.
+> The state in the configuration is the map's state number. Every state has a number. A state is required in order to use a configuration.\
+
 > The pins config function adds an extra layer to a state. The only required value in any configuration is state.
 
 ### States number
