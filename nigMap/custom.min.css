@@ -976,7 +976,7 @@ textarea {
     margin: 0
 }
 
-#jstip {
+.jstip {
     font: 14px/16px Trebuchet MS, Helvetica, Arial, sans-serif;
     max-width: 40%;
     display: none;
