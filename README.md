@@ -1,5 +1,5 @@
-# INTERACTIVE MAP OF NIGERIA
-INIGMap in an Interactive map of nigeria
+#  NIGERIA INTERACTIVE MAP
+NigIMap is an interactive map of Nigeria that can be added to a web page.
 
 ## Features:
 - can add pin to locate a capital
