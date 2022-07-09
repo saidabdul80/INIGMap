@@ -2,13 +2,14 @@
 NigIMap is an interactive map of Nigeria that can be added to a web page.
 
 ## Features:
-- can add pin to locate a capital
-- hover
-- clickable
-- outline
-- dynamic title, description for states
-- url links 
-- html tags for states description on hover
+- Can add pin to locate a capital
+- Custom hoverable state content
+- Custom On hover background color
+- Clickable to set target location
+- Change State Outline color
+- Dynamic title, description for states
+- URL links 
+- HTML tags for states description on hover
 
 ## DOCUMENTATION
 
